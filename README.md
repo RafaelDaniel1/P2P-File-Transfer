@@ -107,5 +107,3 @@ python server/discovery_server.py
 * Develop a graphical user interface
 * Improve scalability for larger peer networks
 
-
-(Add screenshots or terminal output here showing file transfer in action)
